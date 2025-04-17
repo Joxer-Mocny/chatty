@@ -1,0 +1,5 @@
+com\example\chatty\controller\ChatController.class
+com\example\chatty\service\ChatService.class
+com\example\chatty\ChattyApplication.class
+com\example\chatty\websocket\WebSocketConfig.class
+com\example\chatty\model\ChatMessage.class
